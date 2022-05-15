@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @detkno90 or my name in the other worldly view as darthnoor
 - 👀 I’m interested in proggraming / testing / java / creating website for fun and mostly the internet...
-- 🌱 I’m currently learning Q.A as a starter / many more thing should be fill as this is my passion since my teenagers / 
+- 🌱 I’m currently learning full-stack web dev as a starter / many more thing should be fill as this is my passion since my teenagers / 
 -     ill make sure of it / ill make it as my mission this year 
 -     and see how far ill make it this year 
+
+#HTML - done !
+#CSS - Ongoing
+#JS - soon
 -     
 - 
 -   ...
