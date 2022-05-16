@@ -3,15 +3,21 @@
 - 🌱 I’m currently learning full-stack web dev as a starter / many more thing should be fill as this is my passion since my teenagers / 
 -     ill make sure of it / ill make it as my mission this year 
 -     and see how far ill make it this year 
-
-#HTML - done !
-#CSS - Ongoing
-#JS - soon
+-  Mission Accomplished:
+- 
+- #HTML - done !
+- *create simple webpage
+- *create simple webpage with css
+- *create a web form
+- 
+- #CSS - Ongoing
+- 
+- #JS - soon
 -     
 - 
 -   ...
 - 💞️ I’m looking to collaborate on any thing that could improve me / i would not make it a waste ...
-- 📫 How to reach me by eamil at detkno90@gmail.com...
+- 📫 How to reach me by email at detkno90@gmail.com...
 
 <!---
 detkno90/detkno90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
