@@ -10,9 +10,9 @@
 - *create simple webpage with css
 - *create a web form
 - 
-- #CSS - Ongoing
+- #CSS - done !! still not perfect
 - 
-- #JS - soon
+- #JS - going On now ! function! 
 -     
 - 
 -   ...
