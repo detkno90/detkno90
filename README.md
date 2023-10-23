@@ -2,7 +2,11 @@
 - 👀 I’m interested in proggraming / testing / java / creating website for fun and mostly the internet...
 - 🌱 I’m currently learning full-stack web dev as a starter / many more thing should be fill as this is my passion since my teenagers / 
 -     ill make sure of it / ill make it as my mission this year 
--     and see how far ill make it this year 
+-     and see how far ill make it this year
+
+- :::: 2022 _ I have done half way of Fullstack and i didnt Finish it
+- :::: 2023 _ I have set the target to finish it this year
+- 
 -  Mission Accomplished:
 - 
 - #HTML - done !
@@ -17,7 +21,8 @@
 - 
 -   ...
 - 💞️ I’m looking to collaborate on any thing that could improve me / i would not make it a waste ...
-- 📫 How to reach me by email at detkno90@gmail.com...
+- 📫 How to reach me by email at detkno90@gmail.com
+- Please find me at linkedin : www.linkedin.com/in/noormuhammadabdulhamid433b7a33
 
 <!---
 detkno90/detkno90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
